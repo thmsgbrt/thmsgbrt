@@ -29,11 +29,7 @@ jobs:
         run: node index.js
         env:
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
-      - name: Commit and push if changed
-        run: |-
-          git diff
-          git config --global user.email "mr-bot@imaginary.com"
-          git config --global user.name "Mr. bot"
-          git add -A
-          git commit -m "new README file generated" || exit 0
-          git push origin HEAD:master
+      - name: Push new README.md
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
