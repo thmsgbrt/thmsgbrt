@@ -15,6 +15,7 @@ async function generateNewReadme() {
       hour: 'numeric',
       minute: 'numeric',
       timeZoneName: 'short',
+      timeZone: 'Europe/Stockholm',
     }),
   };
 
