@@ -18,6 +18,9 @@ async function generateNewReadme() {
     }),
   };
 
+  /**
+   * Fetch Weather
+   */
   await fetch(
     `https://api.openweathermap.org/data/2.5/weather?q=${CITY}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
@@ -29,10 +32,12 @@ async function generateNewReadme() {
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
+        timeZone: 'Europe/Stockholm',
       });
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-GB', {
         hour: '2-digit',
         minute: '2-digit',
+        timeZone: 'Europe/Stockholm',
       });
     });
 
