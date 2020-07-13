@@ -1,0 +1,39 @@
+name: README build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+      - name: cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+        env:
+          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "mr-bot@imaginary.com"
+          git config --global user.name "Mr. bot"
+          git add -A
+          git commit -m "new README file generated" || exit 0
+          git push
