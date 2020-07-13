@@ -36,4 +36,4 @@ jobs:
           git config --global user.name "Mr. bot"
           git add -A
           git commit -m "new README file generated" || exit 0
-          git push
+          git push origin HEAD:master
