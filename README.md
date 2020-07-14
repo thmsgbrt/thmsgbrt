@@ -13,22 +13,40 @@
 </ul>
 </br>
 <p><b>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</b></p>
-<p>Currently, the weather in Stockholm is : 18°C, broken clouds</p>
-<p>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Currently, the weather in Stockholm is : 18°C, light rain</p>
+<p>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 
 <p><b>Open source projects</b></p>
 <table>
-<thead>
-<tr><td>Projects</td>
-<td>Maintained</td>
-<td>Issues</td></tr>
-</thead>
-<tbody>
-<tr><td>Project 1</td><td>Maintained</td><td>Issues</td></tr></tbody>
+  <thead>
+    <tr>
+      <td>Projects</td>
+      <td>Maintained</td>
+      <td>Issues</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh">React Pull-to-Refresh component</a></td>
+      <td><img alt="Maintenance" src="https://img.shields.io/badge/%20-Yes-brightgreen" target="_blank" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh"/></td>
+    </tr>
+	  <tr>
+		  <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter">Typescript & React Chrome Extension Starter</a></td>
+      <td><img alt="Maintained" src="https://img.shields.io/badge/%20-Yes-brightgreen" target="_blank" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"/></td>
+    </tr>
+		<tr>
+			<td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter">NodeJs Express TypeScript GraphQL Starter</a></td>
+      <td><img alt="Maintenance" src="https://img.shields.io/badge/%20-Yes-brightgreen" target="_blank" /></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"/></td>
+    </tr>
+  </tbody>
 </table>
-|  Project | Maintained  | Issues  |
-| ------------ | ------------ | ------------ |
-|  Project 1 | yes   | no  |
+
+
+
+
 
 
 
@@ -36,7 +54,7 @@
 </hr>
 
 <p>This README file is generated <b>every 6 hours</b>!</p>
-<p>Last refresh: Tuesday, 14 July, 19:35 CEST</p>
+<p>Last refresh: Tuesday, July 14, 7:51 PM GMT+2</p>
 
 
 Find me on other places:
