@@ -14,8 +14,8 @@
 </br>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
 <p>Here are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @movetostockolm!</a></p>
-<p><img src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;106915057_1414320745443826_9171438307182973784_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;SGpHATXyDUgAX9ZYJ28&amp;oh&#x3D;a1a0b9708476eea355820a3c95a04808&amp;oe&#x3D;5F35D3C8" /> <img src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107891402_723491365106300_1214576269932412401_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;wBDcOMYb7_oAX-lDsTh&amp;oh&#x3D;84661568d53dc4ef2b4b2c0b5b616c3d&amp;oe&#x3D;5F3835CC" /> <img src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;108195944_620667555241789_934549344929996893_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;43-UQJAubcwAX9kxhm-&amp;oh&#x3D;a5c333b13f8af142908d3bea9a6dda31&amp;oe&#x3D;5F395927" /></p>
-<p>Currently, the weather in Stockholm is : 16°C, overcast clouds</br>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;106915057_1414320745443826_9171438307182973784_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;SGpHATXyDUgAX8KOUcz&amp;oh&#x3D;ebdf59341c43c003056875e54e921391&amp;oe&#x3D;5F35D3C8" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107891402_723491365106300_1214576269932412401_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;wBDcOMYb7_oAX8VxJW7&amp;oh&#x3D;94c0142c42442ee48222d88cbf9d64bb&amp;oe&#x3D;5F3835CC" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;108195944_620667555241789_934549344929996893_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;43-UQJAubcwAX-8m-_x&amp;oh&#x3D;92704dd6269856ab992d89383014bea8&amp;oe&#x3D;5F395927" /></p>
+<p>Currently, the weather in Stockholm is : 16°C, overcast clouds</br>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 <img src="https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/106915057_1414320745443826_9171438307182973784_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=SGpHATXyDUgAX9sIYu6&oh=5ae37a1d243939d635c0e9f73fb31551&oe=5F384952"/>
 </br>
 <h3>Open source projects</h3>
@@ -62,6 +62,6 @@
 
 
 ------------
-<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 14 July, 21:51 CEST</p>
+<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, July 14, 9:53 PM GMT+2</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <a href="https://github.com/thmsgbrt"><img src="https://visitor-badge.glitch.me/badge?page_id=thmsgbrt.thmsgbrt" /></a></p>
 
