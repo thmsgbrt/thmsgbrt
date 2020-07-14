@@ -2,6 +2,7 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
+const instagramService = require('./services/instagram.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 const CITY = 'Stockholm';
@@ -41,6 +42,13 @@ async function generateNewReadme() {
         timeZone: 'Europe/Stockholm',
       });
     });
+
+  /**
+   * Get pictures
+   */
+  const getImages = await instagramService.start();
+  console.log('RES', getImages);
+  DATA.img1 = getImages[0];
 
   fs.readFile(MUSTACHE_MAIN_DIR, function (err, data) {
     if (err) throw err;
