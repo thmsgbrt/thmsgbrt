@@ -15,12 +15,19 @@ class InstagramService {
   }
 
   async start() {
-    this.browser = await puppeteer.launch();
+    this.browser = await puppeteer.launch({
+      args: [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-infobars',
+        '--window-position=0,0',
+        '--ignore-certifcate-errors',
+        '--ignore-certifcate-errors-spki-list',
+        '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"',
+      ],
+    });
 
     this.page = await this.browser.newPage();
-    await this.page.setUserAgent(
-      'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36'
-    );
 
     await this.page.setExtraHTTPHeaders({
       'Accept-Language': 'en-US',
