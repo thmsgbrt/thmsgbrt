@@ -5,26 +5,22 @@ const fs = require('fs');
 const instagramService = require('./services/instagram.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
-const CITY = 'Stockholm';
 
-async function generateNewReadme() {
-  let DATA = {
-    refresh_date: new Date().toLocaleDateString('en-GB', {
-      weekday: 'long',
-      month: 'long',
-      day: 'numeric',
-      hour: 'numeric',
-      minute: 'numeric',
-      timeZoneName: 'short',
-      timeZone: 'Europe/Stockholm',
-    }),
-  };
+let DATA = {
+  refresh_date: new Date().toLocaleDateString('en-GB', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'Europe/Stockholm',
+  }),
+};
 
-  /**
-   * Fetch Weather
-   */
+async function setWeatherInformation() {
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=${CITY}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
   )
     .then(r => r.json())
     .then(r => {
@@ -42,15 +38,16 @@ async function generateNewReadme() {
         timeZone: 'Europe/Stockholm',
       });
     });
+}
 
-  /**
-   * Get pictures
-   */
+async function setInstagramPosts() {
   const getImages = await instagramService.start();
   DATA.img1 = getImages[0];
   DATA.img2 = getImages[1];
   DATA.img3 = getImages[2];
+}
 
+function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, function (err, data) {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
@@ -58,4 +55,21 @@ async function generateNewReadme() {
   });
 }
 
-generateNewReadme();
+async function action() {
+  /**
+   * Fetch Weather
+   */
+  await setWeatherInformation();
+
+  /**
+   * Get pictures
+   */
+  await setInstagramPosts();
+
+  /**
+   * Generate README
+   */
+  generateReadMe();
+}
+
+action();
