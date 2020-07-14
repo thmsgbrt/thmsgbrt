@@ -7,7 +7,7 @@ const fs = require('fs');
 class InstagramService {
   constructor(path) {
     this.path = path;
-    this.host = `https://instagram.com/`;
+    this.host = `https://www.picuki.com/profile/`;
   }
 
   get url() {
@@ -67,7 +67,7 @@ class InstagramService {
         await page.waitFor(1000);
 
         const nodes = await page.evaluate(() => {
-          const images = document.querySelectorAll(`a > div > div.KL4Bh > img`);
+          const images = document.querySelectorAll(`.post-image`);
           return [].map.call(images, img => img.src);
         });
 
