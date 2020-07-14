@@ -1,15 +1,22 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page!
+I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>,
+currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
 
 <p><b>My favourite tools:</b></p>
-<p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> GraphQL, <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> TypeScript, <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> React, <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="20"/> NestJs, <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="20"/> RxJs</p>
-</br>
+<ul>
+<li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> GraphQL</li>
+<li><img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> TypeScript</li>
+<li><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> React, </li>
+<li><img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="20"/> NestJs</li>
+<li><img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="20"/> RxJs</li>
+</ul>
 </br>
 <p><b>Welcome to Stockholm</b></p>
 <p>Currently, the weather in Stockholm is : 19°C, broken clouds</p>
-<p>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 
 <b>Open source projects</b>
 <i>...soon</i>
@@ -18,7 +25,7 @@
 </hr>
 
 <p>This README file is generated <b>every 6 hours</b>!</p>
-<p>Last refresh: Tuesday, 14 July, 19:07 CEST</p>
+<p>Last refresh: Tuesday, July 14, 7:12 PM GMT+2</p>
 
 
 Find me on other places:
