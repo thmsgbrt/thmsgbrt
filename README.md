@@ -16,7 +16,7 @@ currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.sv
 </br>
 <p><b>Welcome to Stockholm</b></p>
 <p>Currently, the weather in Stockholm is : 19°C, broken clouds</p>
-<p>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
+<p>Today, the sun rises at 03:56 and sets at 21:50.</p>
 
 <b>Open source projects</b>
 <i>...soon</i>
@@ -25,7 +25,7 @@ currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.sv
 </hr>
 
 <p>This README file is generated <b>every 6 hours</b>!</p>
-<p>Last refresh: Tuesday, July 14, 7:12 PM GMT+2</p>
+<p>Last refresh: Tuesday, 14 July, 19:14 CEST</p>
 
 
 Find me on other places:
