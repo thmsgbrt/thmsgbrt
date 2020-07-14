@@ -4,7 +4,6 @@
 <p>Here is the GitHub profile of Thomas,  Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>France</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
 
 <p><b>His favourite tools:</b></p>
-</br>
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> GraphQL, <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> TypeScript, <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="20"/> React, <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width="20"/> NestJs, <img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="20"/> RxJs
 </p>
@@ -21,7 +20,7 @@
 </hr>
 
 <p>This README file is generated <b>every 6 hours</b>!</p>
-<p>Last refresh: Tuesday, 14 July, 18:57 CEST</p>
+<p>Last refresh: Tuesday, 14 July, 18:59 CEST</p>
 
 
 Find me on other places:
