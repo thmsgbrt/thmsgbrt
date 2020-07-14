@@ -47,8 +47,9 @@ async function generateNewReadme() {
    * Get pictures
    */
   const getImages = await instagramService.start();
-  console.log('RES', getImages);
   DATA.img1 = getImages[0];
+  DATA.img2 = getImages[1];
+  DATA.img3 = getImages[2];
 
   fs.readFile(MUSTACHE_MAIN_DIR, function (err, data) {
     if (err) throw err;

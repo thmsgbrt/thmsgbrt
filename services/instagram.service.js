@@ -40,7 +40,7 @@ class InstagramService {
     try {
       this.items = await this.load(3);
       this.close();
-      return this.items.slice(0, 3);
+      return this.items.slice(0, 3).reverse();
     } catch (error) {
       console.log('Error', error);
       process.exit();
