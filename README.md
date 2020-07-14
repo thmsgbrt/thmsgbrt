@@ -14,7 +14,7 @@
 </br>
 <p><b>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</b></p>
 <p>Currently, the weather in Stockholm is : 18°C, broken clouds</p>
-<p>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
+<p>Today, the sun rises at 03:56 and sets at 21:50.</p>
 
 <p><b>Open source projects</b></p>
 <table>
@@ -36,7 +36,7 @@
 </hr>
 
 <p>This README file is generated <b>every 6 hours</b>!</p>
-<p>Last refresh: Tuesday, July 14, 7:33 PM GMT+2</p>
+<p>Last refresh: Tuesday, 14 July, 19:35 CEST</p>
 
 
 Find me on other places:
