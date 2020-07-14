@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>,</br>currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
 
-<p><b>My favourite tools:</b></p>
+<h3>My favourite tools:</h3>
 <ul>
 <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> GraphQL</li>
 <li><img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> TypeScript</li>
@@ -13,10 +13,10 @@
 </ul>
 </br>
 <p><b>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</b></p>
-<p>Currently, the weather in Stockholm is : 18°C, light rain</p>
-<p>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Currently, the weather in Stockholm is : 17°C, light rain</p>
+<p>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 
-<p><b>Open source projects</b></p>
+<h3>Open source projects</h3>
 <table>
   <thead>
     <tr>
@@ -33,21 +33,21 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh/"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh"/></td>
     </tr>
 	  <tr>
 		  <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack">Typescript & React Chrome Extension Starter</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack/"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"/></td>
     </tr>
 		<tr>
 			<td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter">NodeJs Express TypeScript GraphQL Starter</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter/"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"/></td>
 
     </tr>
   </tbody>
@@ -63,7 +63,7 @@
 </hr>
 
 <p>This README file is generated <b>every 6 hours</b>!</p>
-<p>Last refresh: Tuesday, 14 July, 20:02 CEST</p>
+<p>Last refresh: Tuesday, July 14, 8:05 PM GMT+2</p>
 
 
 Find me on other places:
