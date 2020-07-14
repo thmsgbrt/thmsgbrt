@@ -16,7 +16,11 @@ class InstagramService {
 
   async start() {
     this.browser = await puppeteer.launch();
+
     this.page = await this.browser.newPage();
+    await this.page.setUserAgent(
+      'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36'
+    );
 
     await this.page.setExtraHTTPHeaders({
       'Accept-Language': 'en-US',
