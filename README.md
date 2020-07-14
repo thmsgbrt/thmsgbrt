@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Lorient, France</b>,</br>currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> <b>Stockholm, Sweden</b>. </p>
-<p><b>My favourites tools: </b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> <b>GraphQL</b> <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> <b>TypeScript</b></p>
+<p><big>My favourites tools: </big> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> <b>GraphQL</b> <img src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" width="20"/> <b>TypeScript</b></p>
 <h4>My favourite tools:</h4>
 <ul>
   <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" width="20"/> <b>GraphQL</b></li>
@@ -13,8 +13,8 @@
 </ul>
 </br>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;106915057_1414320745443826_9171438307182973784_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;SGpHATXyDUgAX9DPvAE&amp;oh&#x3D;fa12db8e6e1976c5d954a96fec197d9c&amp;oe&#x3D;5F35D3C8" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107891402_723491365106300_1214576269932412401_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;wBDcOMYb7_oAX_kchv6&amp;oh&#x3D;6191cb3362b076b726eb5947a0c1bd5a&amp;oe&#x3D;5F3835CC" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;108195944_620667555241789_934549344929996893_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;43-UQJAubcwAX9meygQ&amp;oh&#x3D;67dadabafa516ef8478c6ddd2747b6e6&amp;oe&#x3D;5F395927" /></p>
-<p>Here are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @movetostockolm!</a><br/>Currently, the weather is : 16°C, <i>overcast clouds</i></br>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;106915057_1414320745443826_9171438307182973784_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;SGpHATXyDUgAX8ESTaN&amp;oh&#x3D;2ecf4b710cc6384c93147e69c3d94389&amp;oe&#x3D;5F35D3C8" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107891402_723491365106300_1214576269932412401_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;wBDcOMYb7_oAX_iVzl5&amp;oh&#x3D;3cee062ca7eedbfadb2521397efa491c&amp;oe&#x3D;5F3835CC" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;108195944_620667555241789_934549344929996893_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;43-UQJAubcwAX9izqjJ&amp;oh&#x3D;e35ce843052d756ece16410dce6ce4dd&amp;oe&#x3D;5F395927" /></p>
+<p>Here are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @movetostockolm!</a><br/>Currently, the weather is : 16°C, <i>overcast clouds</i></br>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 <h3>Open source projects</h3>
 <p>Contributions welcomed!</p>
 <table>
@@ -58,6 +58,6 @@
 
 
 ------------
-<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 14 July, 22:05 CEST</p>
+<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, July 14, 10:05 PM GMT+2</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <a href="https://github.com/thmsgbrt"><img src="https://visitor-badge.glitch.me/badge?page_id=thmsgbrt.thmsgbrt" /></a></p>
 
