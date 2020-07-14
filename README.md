@@ -14,7 +14,7 @@
 </br>
 <p><b>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</b></p>
 <p>Currently, the weather in Stockholm is : 17°C, light rain</p>
-<p>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 
 <p><b>Open source projects</b></p>
 <table>
@@ -41,7 +41,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack/"/></td>
-
     </tr>
 		<tr>
 			<td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter">NodeJs Express TypeScript GraphQL Starter</a></td>
@@ -64,7 +63,7 @@
 </hr>
 
 <p>This README file is generated <b>every 6 hours</b>!</p>
-<p>Last refresh: Tuesday, 14 July, 20:01 CEST</p>
+<p>Last refresh: Tuesday, July 14, 8:01 PM GMT+2</p>
 
 
 Find me on other places:
