@@ -13,18 +13,18 @@
 </ul>
 </br>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p>Currently, the weather in Stockholm is : 17°C, light rain</br>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Currently, the weather in Stockholm is : 17°C, light rain</br>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 </br>
 <h3>Open source projects</h3>
 <p>Contributions welcomed!</p>
 <table>
   <thead align="center">
     <tr>
-      <td>Projects</td>
-      <td>Stars</td>
-      <td>Forks</td>
-      <td>Issues</td>
-      <td>Pull requests</td>
+      <td><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/ribbon_1f380.png" width="20" />Project</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
+      <td><b>Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -56,10 +56,8 @@
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/thmsgbrt.svg?label=GitHub&style=social" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/follow/Guibz16?label=Twitter&style=social" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/LinkedIn-My_Resume-__?style=social&logo=LinkedIn" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Medium-My_Stories-__?style=social&logo=Medium" /></a>
 </p>
 
-<img alt="" src="data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiBjbGFzcz0ib2N0aWNvbiBvY3RpY29uLXJlcG8gVW5kZXJsaW5lTmF2LW9jdGljb24gaGlkZS1zbSIgdmlld0JveD0iMCAwIDE2IDE2IiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxNiIgYXJpYS1oaWRkZW49InRydWUiPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTIgMi41QTIuNSAyLjUgMCAwMTQuNSAwaDguNzVhLjc1Ljc1IDAgMDEuNzUuNzV2MTIuNWEuNzUuNzUgMCAwMS0uNzUuNzVoLTIuNWEuNzUuNzUgMCAxMTAtMS41aDEuNzV2LTJoLThhMSAxIDAgMDAtLjcxNCAxLjcuNzUuNzUgMCAwMS0xLjA3MiAxLjA1QTIuNDk1IDIuNDk1IDAgMDEyIDExLjV2LTl6bTEwLjUtMVY5aC04Yy0uMzU2IDAtLjY5NC4wNzQtMSAuMjA4VjIuNWExIDEgMCAwMTEtMWg4ek01IDEyLjI1djMuMjVhLjI1LjI1IDAgMDAuNC4ybDEuNDUtMS4wODdhLjI1LjI1IDAgMDEuMyAwTDguNiAxNS43YS4yNS4yNSAwIDAwLjQtLjJ2LTMuMjVhLjI1LjI1IDAgMDAtLjI1LS4yNWgtMy41YS4yNS4yNSAwIDAwLS4yNS4yNXoiPjwvcGF0aD48L3N2Zz4K" />
-
 
 ------------
-<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 14 July, 20:23 CEST</p>
+<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, July 14, 8:28 PM GMT+2</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <a href="https://github.com/thmsgbrt"><img src="https://visitor-badge.glitch.me/badge?page_id=thmsgbrt.thmsgbrt" /></a></p>
 
