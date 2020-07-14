@@ -4,7 +4,7 @@
 
 My name is Thomas and I'm a fullstack developer living in Stockholm.
 
-Currently, the weather in 🇸🇪 Stockholm is : 13°C, broken clouds
+Currently, the weather in 🇸🇪 Stockholm is : 15°C, scattered clouds
 
 Today, the sun rises at 03:56 and sets at 21:50.
 
@@ -12,7 +12,7 @@ Today, the sun rises at 03:56 and sets at 21:50.
 
 This README file is generated **every 6 hours**!
 
-Last refresh: Tuesday, 14 July, 02:18 CEST
+Last refresh: Tuesday, 14 July, 08:07 CEST
 
 
 
