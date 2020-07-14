@@ -13,7 +13,8 @@
 </ul>
 </br>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p>Currently, the weather in Stockholm is : 17°C, light rain</br>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Currently, the weather in Stockholm is : 17°C, overcast clouds</br>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
+<img src="https://scontent-arn2-1.cdninstagram.com/v/t51.2885-15/e15/c0.135.1080.1080a/s150x150/106915057_1414320745443826_9171438307182973784_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=SGpHATXyDUgAX9sIYu6&oh=5ae37a1d243939d635c0e9f73fb31551&oe=5F384952"/>
 </br>
 <h3>Open source projects</h3>
 <p>Contributions welcomed!</p>
@@ -58,6 +59,6 @@
 
 
 ------------
-<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 14 July, 20:34 CEST</p>
+<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, July 14, 8:46 PM GMT+2</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <a href="https://github.com/thmsgbrt"><img src="https://visitor-badge.glitch.me/badge?page_id=thmsgbrt.thmsgbrt" /></a></p>
 
