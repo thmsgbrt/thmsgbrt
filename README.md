@@ -13,18 +13,18 @@
 </ul>
 </br>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p>Currently, the weather in Stockholm is : 17°C, light rain</br>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Currently, the weather in Stockholm is : 17°C, light rain</br>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 </br>
 <h3>Open source projects</h3>
 <p>Contributions welcomed!</p>
 <table>
   <thead align="center">
     <tr>
-      <td><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/ribbon_1f380.png" width="20" />Project</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
@@ -58,6 +58,6 @@
 
 
 ------------
-<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 14 July, 20:29 CEST</p>
+<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, July 14, 8:33 PM GMT+2</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <a href="https://github.com/thmsgbrt"><img src="https://visitor-badge.glitch.me/badge?page_id=thmsgbrt.thmsgbrt" /></a></p>
 
