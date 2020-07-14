@@ -13,7 +13,7 @@
 </ul>
 </br>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p>Currently, the weather in Stockholm is : 18°C, light rain</br>Today, the sun rises at 03:56 and sets at 21:50.</p>
+<p>Currently, the weather in Stockholm is : 18°C, light rain</br>Today, the sun rises at 03:56 AM and sets at 09:50 PM.</p>
 </br>
 <h3>Open source projects</h3>
 <table>
@@ -51,11 +51,12 @@
   </tbody>
 </table>
 </br>
-<h3>Find me on other places:</h3>
-[![Github](https://img.shields.io/github/followers/thmsgbrt.svg?label=GitHub&style=social)](https://github.com/thmsgbrt) [![Twitter](https://img.shields.io/twitter/follow/Guibz16?label=Twitter&style=social)](https://twitter.com/Guibz16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-My_Resume-__?style=social&logo=LinkedIn)](https://www.linkedin.com/in/thomas-guibert) [![Medium](https://img.shields.io/badge/Medium-My_Stories-__?style=social&logo=Medium)](https://medium.com/@th.guibert)
+<h3>Where to find me:</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/thmsgbrt.svg?label=GitHub&style=social" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/follow/Guibz16?label=Twitter&style=social" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/LinkedIn-My_Resume-__?style=social&logo=LinkedIn" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Medium-My_Stories-__?style=social&logo=Medium" /></a>
+</p>
 
 
 ------------
-<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, 14 July, 20:10 CEST</p>
+<p align="center">This README file is generated <b>every 6 hours</b>!</br>Last refresh: Tuesday, July 14, 8:12 PM GMT+2</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <a href="https://github.com/thmsgbrt"><img src="https://visitor-badge.glitch.me/badge?page_id=thmsgbrt.thmsgbrt" /></a></p>
 
