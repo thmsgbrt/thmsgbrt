@@ -40,8 +40,8 @@
   </tbody>
 </table>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is : 24°C, <i>clear sky</i></br>Today, the sun rises at 03:59 and sets at 21:47.</p>
+<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;109982700_667365307322545_4140907586293659590_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;iYl3t3PnDrYAX8VWLgg&amp;oh&#x3D;2e0ca58011fcbee3cfa81e11d4e94303&amp;oe&#x3D;5F3B10FE" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;107543629_416184569335292_4848287300918169564_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;E2s6Q2wLoeEAX9CkWHj&amp;oh&#x3D;a813d3b51ea9a0a188fb742725f703fe&amp;oe&#x3D;5F394972" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;108195944_620667555241789_934549344929996893_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;1ThDKlEG7KAAX8GJmSa&amp;oh&#x3D;aea1ba62aeb29a018ac07f0fc55f280d&amp;oe&#x3D;5F395927" /></p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is : 22°C, <i>clear sky</i></br>Today, the sun rises at 03:59 and sets at 21:47.</p>
 <h3>Where to find me:</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/github/followers/thmsgbrt.svg?label=GitHub&style=social" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Github" src="https://img.shields.io/twitter/follow/Guibz16?label=Twitter&style=social" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/LinkedIn-My_Resume-__?style=social&logo=LinkedIn" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Medium-My_Stories-__?style=social&logo=Medium" /></a>
 </p>
@@ -49,6 +49,6 @@
 
 
 ------------
-<p align="center">This README file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 July, 17:02 CEST</p>
+<p align="center">This README file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 July, 20:01 CEST</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /></p>
 
