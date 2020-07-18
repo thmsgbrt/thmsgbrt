@@ -2,7 +2,7 @@ require('dotenv').config();
 const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
-const instagramService = require('./services/instagram.service');
+const puppeteerService = require('./services/puppeteer.service');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -41,14 +41,15 @@ async function setWeatherInformation() {
 }
 
 async function setInstagramPosts() {
-  const getImages = await instagramService.start();
-  DATA.img1 = getImages[0];
-  DATA.img2 = getImages[1];
-  DATA.img3 = getImages[2];
+  const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
+  console.log('get', instagramImages);
+  DATA.img1 = instagramImages[0];
+  DATA.img2 = instagramImages[1];
+  DATA.img2 = instagramImages[2];
 }
 
-function generateReadMe() {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+async function generateReadMe() {
+  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
@@ -69,7 +70,7 @@ async function action() {
   /**
    * Generate README
    */
-  generateReadMe();
+  await generateReadMe();
 }
 
 action();
