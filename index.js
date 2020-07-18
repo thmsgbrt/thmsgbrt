@@ -42,7 +42,6 @@ async function setWeatherInformation() {
 
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
-  console.log('get', instagramImages);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
   DATA.img2 = instagramImages[2];
@@ -71,6 +70,11 @@ async function action() {
    * Generate README
    */
   await generateReadMe();
+
+  /**
+   * Fermeture de la boutique 👋
+   */
+  await puppeteerService.close();
 }
 
 action();

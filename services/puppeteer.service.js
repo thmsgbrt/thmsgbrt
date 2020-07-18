@@ -40,10 +40,10 @@ class PuppeteerService {
     });
   }
 
-  // async close() {
-  //   await this.page.close();
-  //   await this.browser.close();
-  // }
+  async close() {
+    await this.page.close();
+    await this.browser.close();
+  }
 
   /**
    *
@@ -61,14 +61,11 @@ class PuppeteerService {
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
       await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
       await this.page.waitFor(1000);
-      console.log('A');
 
       const nodes = await this.page.evaluate(() => {
         const images = document.querySelectorAll(`.post-image`);
         return [].map.call(images, img => img.src);
       });
-
-      console.log('nodes', nodes);
 
       return nodes.slice(0, 3);
     } catch (error) {
