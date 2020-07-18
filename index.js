@@ -44,7 +44,7 @@ async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('visitstockholm', 3);
   DATA.img1 = instagramImages[0];
   DATA.img2 = instagramImages[1];
-  DATA.img2 = instagramImages[2];
+  DATA.img3 = instagramImages[2];
 }
 
 async function generateReadMe() {
