@@ -21,10 +21,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux-js&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm-js&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia-js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-github-F9A03C?style=flat-square&logo=d3-js&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3js&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-github-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="github action" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-action&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -76,13 +76,13 @@
   <li><a target="_blank" href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
 </ul>
 <h3>Välkommen till <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Stockholm!</h3>
-<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;109457536_1342077109315075_5711052787798762430_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;LtmNyN4rzNYAX8qOcnW&amp;oh&#x3D;c1b353a9b873ae857c12dfefcf3e6770&amp;oe&#x3D;5F404BB7" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;110451477_2394360114201633_2404172202113435747_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;8olVAJqutiQAX_lEkxm&amp;oh&#x3D;bb677276f0405f4db6230791a0328635&amp;oe&#x3D;5F41D303" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;114705477_136513354751877_8590687177020566460_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;JY012sJ8rz4AX9nVybN&amp;oh&#x3D;4ff09a8dea0991553c56a0241c045b9f&amp;oe&#x3D;5F405598" /></p>
+<p><img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;109457536_1342077109315075_5711052787798762430_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;LtmNyN4rzNYAX9aTbFN&amp;oh&#x3D;7feb90f468adb73cdf72b30af7c258b1&amp;oe&#x3D;5F404BB7" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;110451477_2394360114201633_2404172202113435747_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;8olVAJqutiQAX8oR9V8&amp;oh&#x3D;b710b8bd2bc84ce74516b21c81365548&amp;oe&#x3D;5F41D303" /> <img width="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;114705477_136513354751877_8590687177020566460_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;JY012sJ8rz4AX89mH_H&amp;oh&#x3D;198036e79a53c8f2d06283b25497ab6c&amp;oe&#x3D;5F405598" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is : 14°C, <i>scattered clouds</i></br>Today, the sun rises at 04:11 AM and sets at 09:36 PM.</p>
 <h3>Where to find me:</h3>
 <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ------------
-<p align="center">This README file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, July 22, 8:17 AM GMT+2</p>
+<p align="center">This README file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, July 22, 8:18 AM GMT+2</p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></td></p>
 
