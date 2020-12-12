@@ -52,19 +52,13 @@ class PuppeteerService {
   async getLatestInstagramPostsFromAccount(acc, n) {
     const page = `https://www.picuki.com/profile/${acc}`;
     await this.goToPage(page);
-    console.log('DEBUG A', page)
     let previousHeight;
 
     try {
       previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-    console.log('DEBUG B')
-
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-    console.log('DEBUG C')
-
+      // 🔽 Doesn't seem to be needed
       // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-    console.log('DEBUG E')
-
       await this.page.waitFor(1000);
 
       const nodes = await this.page.evaluate(() => {
