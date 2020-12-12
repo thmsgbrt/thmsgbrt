@@ -57,8 +57,14 @@ class PuppeteerService {
 
     try {
       previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
+    console.log('DEBUG B')
+
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
+    console.log('DEBUG C')
+
       await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
+    console.log('DEBUG D')
+
       await this.page.waitFor(1000);
 
       const nodes = await this.page.evaluate(() => {
