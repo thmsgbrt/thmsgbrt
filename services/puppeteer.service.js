@@ -62,8 +62,8 @@ class PuppeteerService {
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
     console.log('DEBUG C')
 
-      await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-    console.log('DEBUG D')
+      // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
+    console.log('DEBUG E')
 
       await this.page.waitFor(1000);
 
