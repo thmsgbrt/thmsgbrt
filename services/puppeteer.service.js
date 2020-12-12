@@ -52,7 +52,7 @@ class PuppeteerService {
   async getLatestInstagramPostsFromAccount(acc, n) {
     const page = `https://www.picuki.com/profile/${acc}`;
     await this.goToPage(page);
-
+    console.log('DEBUG A', page)
     let previousHeight;
 
     try {
