@@ -16,7 +16,7 @@ class PuppeteerService {
         '--proxy-server=http=194.67.37.90:3128',
         // '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3312.0 Safari/537.36"', //
       ],
-      // headless: false,
+      headless: false,
     });
   }
 
@@ -50,11 +50,11 @@ class PuppeteerService {
    * @param {number} n Qty of image to fetch
    */
   async getLatestInstagramPostsFromAccount(acc, n) {
-    const page = `https://www.picuki.com/profile/${acc}`;
-    await this.goToPage(page);
-    let previousHeight;
-
     try {
+      const page = `https://dumpor.com/v/${acc}`;
+      await this.goToPage(page);
+      let previousHeight;
+
       previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
       // 🔽 Doesn't seem to be needed
@@ -62,7 +62,7 @@ class PuppeteerService {
       await this.page.waitFor(1000);
 
       const nodes = await this.page.evaluate(() => {
-        const images = document.querySelectorAll(`.post-image`);
+        const images = document.querySelectorAll(`.content__img`);
         return [].map.call(images, img => img.src);
       });
 
