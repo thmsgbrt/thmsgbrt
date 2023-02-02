@@ -51,7 +51,7 @@ class PuppeteerService {
    */
   async getLatestInstagramPostsFromAccount(acc, n) {
     try {
-      const page = `https://dumpor.com/v/${acc}`;
+      const page = `https://www.picuki.com/profile/${acc}`;
       await this.goToPage(page);
       let previousHeight;
 
@@ -62,9 +62,11 @@ class PuppeteerService {
       await this.page.waitFor(1000);
 
       const nodes = await this.page.evaluate(() => {
-        const images = document.querySelectorAll(`.content__img`);
+        const images = document.querySelectorAll(`.post-image`);
         return [].map.call(images, img => img.src);
       });
+
+      console.log('nodes', nodes);
 
       return nodes.slice(0, 3);
     } catch (error) {
@@ -72,36 +74,6 @@ class PuppeteerService {
       process.exit();
     }
   }
-
-  // async getLatestMediumPublications(acc, n) {
-  //   const page = `https://medium.com/${acc}`;
-
-  //   await this.goToPage(page);
-
-  //   console.log('PP', page);
-  //   let previousHeight;
-
-  //   try {
-  //     previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
-  //     console.log('MED1');
-  //     await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-  //     console.log('MED2', previousHeight);
-  //     await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
-  //     console.log('MED3');
-  //     await this.page.waitFor(1000);
-  //     console.log('MED4');
-
-  //     const nodes = await this.page.evaluate(() => {
-  //       const posts = document.querySelectorAll('.fs.ft.fu.fv.fw.z.c');
-  //       return [].map.call(posts);
-  //     });
-  //     console.log('POSTS', nodes);
-  //     return;
-  //   } catch (error) {
-  //     console.log('Error', error);
-  //     process.exit();
-  //   }
-  // }
 }
 
 const puppeteerService = new PuppeteerService();
