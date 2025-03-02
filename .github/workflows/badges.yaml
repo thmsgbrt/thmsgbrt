@@ -1,0 +1,51 @@
+---
+name: Generate Badges
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/badges.yaml
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Badges
+        uses: ChipWolf/generate-badges@v1
+        with:
+          format: html
+          output: main.mustache
+          slugs: |
+            angular
+            apollographql
+            brave
+            d3dotjs
+            docker
+            git
+            githubactions
+            googlecloud
+            graphql
+            heroku
+            html5
+            insomnia
+            mongodb
+            nestjs
+            nodedotjs
+            npm
+            prettier
+            react
+            reactivex
+            redux
+            rollupdotjs
+            sass
+            styledcomponents
+            typescript
+            webpack
+          style: flat-square
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: Update generated badges with ChipWolf/generate-badges
